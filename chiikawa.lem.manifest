@@ -1,0 +1,60 @@
+ManifestFileVersion: 0
+CRC: 2586465596
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: a7536163d112cac9aac3b653a0f183e3
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: f8a2eaaae45512340d13d5557fc87d54
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: a7536163d112cac9aac3b653a0f183e3
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: -2065973508, guid: 2c2d93d7e414a7b4ba3e95d0415d5042, type: 3}
+- Class: 114
+  Script: {fileID: -1366554475, guid: 2c2d93d7e414a7b4ba3e95d0415d5042, type: 3}
+- Class: 114
+  Script: {fileID: 414444751, guid: 2c2d93d7e414a7b4ba3e95d0415d5042, type: 3}
+- Class: 114
+  Script: {fileID: -1265089256, guid: 2c2d93d7e414a7b4ba3e95d0415d5042, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d5a57f767e5e46a458fc5d3c628d0cbb, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: LethalSDK
+  ClassName: LethalSDK.Utils.PlanetPrefabInfoPair
+- AssemblyName: LethalSDK
+  ClassName: LethalSDK.Utils.ScrapSpawnChancePerScene
+- AssemblyName: LethalSDK
+  ClassName: LethalSDK.Utils.SerializableVersion
+Assets:
+- Assets/Mods/Chiikawa/Items/Scraps/Chiikawa/chiikawa.fbx
+- Assets/Mods/Chiikawa/chiikawamodassetbank.asset
+- Assets/Mods/Chiikawa/Items/Scraps/Chiikawa/chiikawa_diffuse_small.png
+- Assets/Mods/Chiikawa/Items/Scraps/Chiikawa/Chiikawa.prefab
+- Assets/Mods/Chiikawa/Items/Scraps/Chiikawa/Chiikawa.asset
+- Assets/Mods/Chiikawa/ModManifest.asset
+Dependencies:
+- D:/Unity Projects/LethalSDK_Project/Assets/AssetBundles/templatemod.lem

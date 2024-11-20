@@ -1,0 +1,10 @@
+{
+    "name": "ChiikawaMod",
+    "version_number": "1.0.0",
+    "website_url": "",
+    "description": "Adds a plushy scrap to the game.",
+    "dependencies": [
+        "jockie-LethalExpansionCore-1.3.6"
+	, "BepInEx-BepInExPack-5.4.2100"
+    ]
+}
